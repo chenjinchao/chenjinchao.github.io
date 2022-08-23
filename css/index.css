@@ -1,0 +1,21 @@
+body{
+    background: green;
+}
+
+.img-box{
+    width:50%;
+    margin: 0 auto;
+}
+.img-box img{
+    width: 100%;
+}
+
+.text-box{
+    width: 50%;
+    color: red;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    text-shadow: 0 0 10px red,0 0 20px red,0 0 30px red,0 0 40px red;
+}
